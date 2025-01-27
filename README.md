@@ -6,7 +6,7 @@ Discord Webhook Spammer?
 make a webhooks.txt with all ur webhooks
 and make a messages.txt with messages lul
 
-load both files in the gui (yea the whole gui is on german but u will understand pretty easy what button does what xdxdxd
+load both files in the gui (yea the whole gui is on german but u will understand pretty easy what button does what xdxdxd ## MAYBE I WILL ALSO CHANGE IT TO ENGLISH FOR BETTER UNDERSTANDING LLUUUULLLLL
 
 preview is not finished
 sending messages works, gif works everything works.
